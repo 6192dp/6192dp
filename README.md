@@ -1,4 +1,4 @@
-![](mbappe.gif)
+![](./mbappe.gif)
 
 Hi, I'm DP 👋
 
