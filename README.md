@@ -1,4 +1,4 @@
-![](./mbappe.gif)
+![](https://media.giphy.com/media/KDslQkrF0XqKbtjwJL/giphy.gif)
 
 Hi, I'm DP 👋
 
