@@ -2,6 +2,8 @@
 
 Hi, I'm DP 👋
 
-* Front-end engineer at https://nostragamus.in
+* Frontend developer at Wander Innovation. Getting my hands dirty with Gatsby and GraphQL
 
-* Building stuff using http://reactjs.org/ since a couple of years now
+* Previously a senior front-end dev at Nostragamus. Helped build and maintain https://app.nostragamus.in and its iOS version 
+
+* Building stuff using React.js since few years now
