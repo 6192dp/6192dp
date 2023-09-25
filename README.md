@@ -2,8 +2,8 @@
 
 Hi, I'm DP 👋
 
-* Frontend developer at Wander Innovation. Getting my hands dirty with Gatsby and GraphQL
+* A Senior Frontend Engineer at [ggwp.com](http://ggwp.com/)
 
-* Previously a senior front-end dev at Nostragamus. Helped build and maintain https://app.nostragamus.in and its iOS version 
-
-* Building stuff using React.js since few years now
+* Previously helped build https://app.nostragamus.in and its iOS version 
+  
+* Experienced in React.js, React Native and Flutter
